@@ -1,1 +1,1 @@
-Content where I normally work on from the local PC.
+This repository content is installed to facilitate my work done away from my local Pc.
