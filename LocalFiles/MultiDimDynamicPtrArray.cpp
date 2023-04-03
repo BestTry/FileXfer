@@ -67,7 +67,7 @@ int main()
     for (int rowNum = 0; rowNum < maxRows; rowNum++)
     {                                           // I now understand this but I did not come up with it myself  ...... boo
         for (int colNum = 0; colNum < maxCols; colNum++)
-        {                                       // Array address + (  (rowNum=0 thru (rowNum=maxCols-1)  ) * maxCols) + colNum)
+        {                                       // Array address + ( (rowNum=0 thru (rowNum=maxCols-1)  ) * maxCols) + colNum )
             cout << tb << " " << *(arry + (rowNum * maxCols) + colNum);
         }
         cout << endl;
