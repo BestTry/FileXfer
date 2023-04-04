@@ -11,7 +11,7 @@
 using std::cout;
 using std::cin;
 using std::endl;
-// using namespace std;                   // From this point on do not use this but be specific as shown in statements above ^
+// using namespace std;                   // Do not use this namespace std but be specific as shown in statements above ^
                                           // Prepare to invoke tab for a later display; Give it alias variable 'tb' designation
 char tb = (char)((int)9);                 // Integer 9 is the ASCII character for 'Tab'; Requires casting as seen here
 
