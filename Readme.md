@@ -1,5 +1,4 @@
-# This repository is intended to be a vehicle where I can preserve C++ code and the like originint from my local PC repository.
-# Its contents is intended to be saved (pushed) to the Remote Repository (GitHub) for safe keeping.
+# This repository is intended to be a vehicle where I can preserve C++ code and the like from my local PC and remote repositories.
 # In doing this, I hope this results in safe keeping in case unforeseen circumstances arise where I loose local content.
 #
 # Overriding the major importance as just describe, is that this repository directory will be also used as a transport vehicle 
